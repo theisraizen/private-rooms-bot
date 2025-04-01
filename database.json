@@ -1,0 +1,22 @@
+[ 
+  {
+    "guildID": "",
+    "data": [
+      {
+        "categoryID": "",
+        "voiceID": "",
+        "jailRoles": [
+          ""
+        ],
+        "unregisterRoles": [   
+          ""
+        ],
+        "memberRoles": [
+          "",
+          ""
+        ],
+        "logChannelID": ""
+      } 
+    ]
+  }
+] 
